@@ -10,3 +10,8 @@
 * The title and reference code will be uploaded separately  
 * All the reference code can pass **all the test points**, but because I am still in school to learn, the level is limited.Please forgive my fault!  
 * **Please leave a message if you have any questions!**  
+
+## 更新日志 Update Blogs
+### **2023/04/07** **April 7th , 2023**  
+* 更新了**example1c.c**参考代码文件及其**example1c.docx**题目文件  
+* Update with **example1c.c** for reference code and **example1c.docx** for question.

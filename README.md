@@ -13,5 +13,5 @@
 
 ## 更新日志 Update Blogs
 ### **2023/04/07** **April 7th , 2023**  
-* 更新了**example1c.c**参考代码文件及其**example1c.docx**题目文件  
-* Update with **example1c.c** for reference code and **example1c.docx** for question.
+* 更新了 **[example1c.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/example1c.c)** 参考代码文件及其 **[example1c.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/example1c.docx)** 题目文件  
+* Update with **[example1c.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/example1c.c)** for reference code and **[example1c.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/example1c.docx)** for question.

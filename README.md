@@ -19,3 +19,9 @@
 ### **2023/04/08** **April 8th , 2023**  
 * 更新了 **[expand.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/expand.c)** 参考代码文件及其 **[expand.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expand.docx)** 题目文件  
 * Update with **[example1c.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/expand.c)** for reference code and **[expand.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expand.docx)** for question.
+
+### **2023/04/09** **April 9th , 2023**  
+* 更新了 **[notation.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/notation.c)** 参考代码文件及其 **[notation.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/notation.docx)** 题目文件  
+* Update with **[notation.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/notation.c)** for reference code and **[notation.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/notation.docx)** for question.
+
+

@@ -22,6 +22,12 @@
 
 ### **2023/04/09** **April 9th , 2023**  
 * 更新了 **[notation.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/notation.c)** 参考代码文件及其 **[notation.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/notation.docx)** 题目文件  
-* Update with **[notation.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/notation.c)** for reference code and **[notation.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/notation.docx)** for question.
-
-
+* Update with **[notation.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/notation.c)** for reference code and **[notation.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/notation.docx)** for question.  
+* **重要更新：为方便浏览者直观预览docx文件中的题目内容，现在起在发布docx文件时会跟进发布与其内容、文件名相同的pdf文件。所有人可以直接预览pdf文件，并自行选择下载pdf文件或者是可编辑的docx文件**  
+* **Important update: To make it easier for viewers to preview the title content in docx files, we will now follow up with the release of docx files with the same content, file name pdf file. Everyone can preview thepdfF directly and choose whether to download the pdf or the editable docx file.**
+* 更新了 **[example1c.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/example1c.pdf)** 题目文件  
+* Update with **[example1c.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/example1c.pdf)** for question.  
+* 更新了 **[expand.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expand.pdf)** 题目文件  
+* Update with **[expand.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expand.pdf)** for question.
+* 更新了 **[notation.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/notation.pdf)** 题目文件  
+* Update with **[notation.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/notation.pdf)** for question.  

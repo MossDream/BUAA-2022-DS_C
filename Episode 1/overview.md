@@ -5,3 +5,5 @@
 **[expand.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/expand.c)**
 ## **2023/04/09** 
 **[notation.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/notation.c)**
+## **2023/04/10** 
+**[subtract.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/subtract.c)**

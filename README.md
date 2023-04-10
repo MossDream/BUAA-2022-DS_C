@@ -31,3 +31,15 @@
 * Update with **[expand.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expand.pdf)** for question.
 * 更新了 **[notation.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/notation.pdf)** 题目文件  
 * Update with **[notation.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/notation.pdf)** for question.  
+
+### **2023/04/10** **April 10th , 2023**  
+* 更新了 **[subtract.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/subtract.c)** 参考代码文件及其 **[subtract.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/subtract.docx)** 题目文件  
+* Update with **[subtract.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/subtract.c)** for reference code and **[subtract.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/nsubtract.docx)** for question.  
+* 更新了 **[subtract.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/subtract.pdf)** 题目文件  
+* Update with **[subtract.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/subtract.pdf)** for question.
+
+
+
+
+
+

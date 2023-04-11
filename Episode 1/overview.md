@@ -7,3 +7,5 @@
 **[notation.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/notation.c)**
 ## **2023/04/10** 
 **[subtract.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/subtract.c)**
+## **2023/04/11** 
+**[order.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/order.c)**

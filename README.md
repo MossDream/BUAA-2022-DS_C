@@ -43,7 +43,7 @@
 * Update with **[order.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/order.c)** for reference code and **[order.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/order.docx)** for question.  
 * 更新了 **[order.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/order.pdf)** 题目文件  
 * Update with **[order.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/order.pdf)** for question.
-* **重要更新002：在每个参考代码文件夹中新增题目信息清单，以便快速地了解题目所涉及的知识点，有利于进行针对性练习。**  
-* **Important Update 002: add a list of topic information to each reference code folder to quickly understand the points of knowledge involved in the topic and facilitate targeted exercises.**
+* **重要更新002：在每个参考代码文件夹中新增题目信息清单，以便快速地了解题目所涉及的知识点，有利于进行针对性练习。目前只支持中文版。**  
+* **Important Update 002: add a list of topic information to each reference code folder to quickly understand the points of knowledge involved in the topic and facilitate targeted exercises.Currently only the Chinese version is supported.**
 
 

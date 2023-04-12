@@ -26,8 +26,8 @@
 * **[expand.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expand.pdf)**
 * **[notation.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/notation.pdf)**
 * **[substract.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/substract.pdf)**
-* **[order.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/order.pdf)**
- **[chess.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/chess.pdf)**
+* **[order.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/order.pdf)**  
+* **[chess.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/chess.pdf)**
 
 ### 参考代码文件 Files for reference code
 #### Episode 1
@@ -42,8 +42,8 @@
 
 ### 题目信息清单 Topic Information List
 #### Episode 1
-* **[Info List zh-cn.md](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/Info List zh-cn.md)** 
+* **[Info List zh-cn.md](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/Info%20List%20zh-cn.md)** 
 #### Episode 2
-* **[Info List zh-cn.md](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/Info List zh-cn.md)** 
+* **[Info List zh-cn.md](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/Info%20List%20zh-cn.md)** 
 
 

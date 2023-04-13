@@ -42,7 +42,8 @@
 
 #### Episode 2
 * **[chess.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/chess.c)** 
-* **[replace.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/replace.c)** 
+* **[replace.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/replace.c)**  
+ **注意：该题要求的filein测试文件在同一目录下 Note: The filein test file required for this question is in the same directory**
 
 ### 题目信息清单 Topic Information List
 #### Episode 1

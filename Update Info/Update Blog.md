@@ -37,3 +37,9 @@
 * Update with **[chess.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/chess.c)** for reference code and **[chess.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/chess.docx)** for question.  
 * 更新了 **[chess.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/chess.pdf)** 题目文件  
 * Update with **[chess.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/chess.pdf)** for question.
+
+### **2023/04/13** **April 13th , 2023**  
+* 更新了 **[replace.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/replace.c)** 参考代码文件及其 **[replace.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/replace.docx)** 题目文件  
+* Update with **[replace.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/replace.c)** for reference code and **[replace.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/replace.docx)** for question.  
+* 更新了 **[replace.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/replace.pdf)** 题目文件  
+* Update with **[replace.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/replace.pdf)** for question.

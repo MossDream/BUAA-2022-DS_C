@@ -20,6 +20,8 @@
 * **[substract.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/substract.docx)**
 * **[order.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/order.docx)**
 * **[chess.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/chess.docx)**
+* **[replace.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/replace.docx)**
+
 
 #### pdf
 * **[example1c.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/example1c.pdf)** 
@@ -28,6 +30,7 @@
 * **[substract.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/substract.pdf)**
 * **[order.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/order.pdf)**  
 * **[chess.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/chess.pdf)**
+* **[replace.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/replace.pdf)**
 
 ### 参考代码文件 Files for reference code
 #### Episode 1
@@ -39,6 +42,8 @@
 
 #### Episode 2
 * **[chess.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/chess.c)** 
+* **[replace.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/replace.c)**  
+ **注意：该题要求的filein测试文件在同一目录下 Note: The filein test file required for this question is in the same directory**
 
 ### 题目信息清单 Topic Information List
 #### Episode 1

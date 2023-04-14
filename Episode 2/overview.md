@@ -4,3 +4,5 @@
 **[chess.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/chess.c)**
 ## **2023/04/13** 
 **[replace.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/replace.c)**
+## **2023/04/14** 
+**[encrypt.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/encrypt.c)**

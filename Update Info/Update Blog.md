@@ -43,3 +43,9 @@
 * Update with **[replace.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/replace.c)** for reference code and **[replace.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/replace.docx)** for question.  
 * 更新了 **[replace.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/replace.pdf)** 题目文件  
 * Update with **[replace.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/replace.pdf)** for question.
+
+### **2023/04/14** **April 14th , 2023**  
+* 更新了 **[encrypt.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/encrypt.c)** 参考代码文件及其 **[encrypt.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/encrypt.docx)** 题目文件  
+* Update with **[encrypt.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/encrypt.c)** for reference code and **[encrypt.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/encrypt.docx)** for question.  
+* 更新了 **[encrypt.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/encrypt.pdf)** 题目文件  
+* Update with **[encrypt.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/encrypt.pdf)** for question.

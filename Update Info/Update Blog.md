@@ -55,3 +55,9 @@
 * Update with **[sort.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/sort.c)** for reference code and **[sort.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/sort.docx)** for question.  
 * 更新了 **[sort.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/sort.pdf)** 题目文件  
 * Update with **[sort.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/sort.pdf)** for question.
+
+### **2023/04/16** **April 16th , 2023**  
+* 更新了 **[books.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/books.c)** 参考代码文件及其 **[books.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/books.docx)** 题目文件  
+* Update with **[books.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/books.c)** for reference code and **[books.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/books.docx)** for question.  
+* 更新了 **[books.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/books.pdf)** 题目文件  
+* Update with **[books.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/books.pdf)** for question.

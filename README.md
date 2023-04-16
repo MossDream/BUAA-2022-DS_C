@@ -22,6 +22,7 @@
 * **[chess.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/chess.docx)**
 * **[replace.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/replace.docx)**
 * **[encrypt.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/encrypt.docx)**
+* **[sort.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/sort.docx)**
 
 
 #### pdf
@@ -33,6 +34,7 @@
 * **[chess.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/chess.pdf)**
 * **[replace.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/replace.pdf)**
 * **[encrypt.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/encrypt.pdf)**
+* **[sort.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/sort.pdf)**
 
 ### 参考代码文件 Files for reference code
 #### Episode 1
@@ -48,7 +50,7 @@
  **注意：该题要求的filein测试文件在同一目录下 Note: The filein test file required for this question is in the same directory**
 * **[encrypt.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/encrypt.c)**  
  **注意：该题要求的encrypt测试文件在同一目录下 Note: The encrypt test file required for this question is in the same directory**
-
+* **[sort.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/sort.c)**
 ### 题目信息清单 Topic Information List
 #### Episode 1
 * **[Info List zh-cn.md](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/Info%20List%20zh-cn.md)** 

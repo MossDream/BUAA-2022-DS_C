@@ -24,7 +24,7 @@
 * **[encrypt.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/encrypt.docx)**
 * **[sort.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/sort.docx)**
 * **[books.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/books.docx)**
-
+* **[line.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/line.docx)**
 #### pdf
 * **[example1c.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/example1c.pdf)** 
 * **[expand.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expand.pdf)**
@@ -36,7 +36,7 @@
 * **[encrypt.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/encrypt.pdf)**
 * **[sort.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/sort.pdf)**
 * **[books.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/books.pdf)**
-
+* **[line.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/line.pdf)**
 ### 参考代码文件 Files for reference code
 #### Episode 1
 * **[example1c.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/example1c.c)** 
@@ -55,10 +55,14 @@
 * **[books.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/books.c)**  
  **注意：该题要求的books测试文件在同一目录下 Note: The books test file required for this question is in the same directory**
 
+#### Episode 3
+* **[line.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%203/line.c)** 
+
 ### 题目信息清单 Topic Information List
 #### Episode 1
 * **[Info List zh-cn.md](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/Info%20List%20zh-cn.md)** 
 #### Episode 2
 * **[Info List zh-cn.md](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%202/Info%20List%20zh-cn.md)** 
-
+#### Episode 3
+* **[Info List zh-cn.md](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%203/Info%20List%20zh-cn.md)** 
 

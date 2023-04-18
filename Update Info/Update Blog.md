@@ -67,3 +67,7 @@
 * Update with **[line.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%203/line.c)** for reference code and **[line.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/line.docx)** for question.  
 * 更新了 **[line.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/line.pdf)** 题目文件  
 * Update with **[line.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/line.pdf)** for question.
+
+### **2023/04/18** **April 18th , 2023**
+* **重要更新003:着手准备提供课件以供初学者更好地学习**
+* **Important Update 003:Start preparing coursewares for beginners to learn better**

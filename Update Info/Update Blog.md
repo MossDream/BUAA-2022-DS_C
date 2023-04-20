@@ -71,3 +71,11 @@
 ### **2023/04/18** **April 18th , 2023**
 * **重要更新003:着手准备提供课件以供初学者更好地学习**
 * **Important Update 003:Start preparing coursewares for beginners to learn better**
+
+### **2023/04/20** **April 20th , 2023**  
+* 更新了 **[memory.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%203/memory.c)** 参考代码文件及其 **[memory.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/memory.docx)** 题目文件  
+* Update with **[memory.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%203/memory.c)** for reference code and **[memory.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/memory.docx)** for question.  
+* 更新了 **[memory.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/memory.pdf)** 题目文件  
+* Update with **[memory.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/memory.pdf)** for question.
+* **重要更新004：提供选择题、填空题练习**
+* **Important Update 004: provide multiple-choice, fill-in-the-blank exercises**

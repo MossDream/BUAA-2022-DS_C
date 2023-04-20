@@ -25,6 +25,7 @@
 * **[sort.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/sort.docx)**
 * **[books.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/books.docx)**
 * **[line.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/line.docx)**
+* **[memory.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/memory.docx)**
 #### pdf
 * **[example1c.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/example1c.pdf)** 
 * **[expand.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expand.pdf)**
@@ -37,6 +38,8 @@
 * **[sort.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/sort.pdf)**
 * **[books.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/books.pdf)**
 * **[line.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/line.pdf)**
+* **[memory.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/memory.pdf)**
+
 ### 参考代码文件 Files for reference code
 #### Episode 1
 * **[example1c.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/example1c.c)** 
@@ -57,6 +60,7 @@
 
 #### Episode 3
 * **[line.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%203/line.c)** 
+* **[memory.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%203/memory.c)** 
 
 ### 题目信息清单 Topic Information List
 #### Episode 1

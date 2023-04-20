@@ -77,4 +77,5 @@
 * Update with **[memory.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%203/memory.c)** for reference code and **[memory.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/memory.docx)** for question.  
 * 更新了 **[memory.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/memory.pdf)** 题目文件  
 * Update with **[memory.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/memory.pdf)** for question.
-
+* **重要更新004：提供选择题、填空题练习**
+* **Important Update 004: provide multiple-choice, fill-in-the-blank exercises**

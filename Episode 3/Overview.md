@@ -6,3 +6,5 @@
 **[memory.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%203/memory.c)**
 ## **2023/04/26** 
 **[multi.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%203/multi.c)**
+## **2023/04/27** 
+**[encode.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%203/encode.c)**

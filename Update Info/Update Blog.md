@@ -91,3 +91,9 @@
 * Update with **[encode.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%203/encode.c)** for reference code and **[encode.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/encode.docx)** for question.  
 * 更新了 **[encode.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/encode.pdf)** 题目文件  
 * Update with **[encode.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/encode.pdf)** for question.
+
+### **2023/04/29** **April 29th , 2023**  
+* 更新了 **[word.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%203/word.c)** 参考代码文件及其 **[word.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/encode.docx)** 题目文件  
+* Update with **[word.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%203/word.c)** for reference code and **[word.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/word.docx)** for question.  
+* 更新了 **[word.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/word.pdf)** 题目文件  
+* Update with **[word.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/word.pdf)** for question.

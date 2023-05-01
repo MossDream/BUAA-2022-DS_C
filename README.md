@@ -83,7 +83,7 @@
 * **[DSP绪论](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/DSPv2_0(%E7%BB%AA%E8%AE%BA)-sxh.pptx)**
 * **[DSP数据结构基础](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/DSPv2_1(%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80)-sxh.pptx)**
 * **[DSP线性表](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/DSPv2_2(%E7%BA%BF%E6%80%A7%E8%A1%A8)-sxh.pptx)**
-* **[DSP广义表、矩阵和串]()**
+* **[DSP广义表、矩阵和串](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/DSPv2_3(%E5%B9%BF%E4%B9%89%E8%A1%A8%E3%80%81%E7%9F%A9%E9%98%B5%E4%B8%8E%E4%B8%B2)-sxh.pptx)**
 * **[DSP栈和队]()**
 * **[DSP树与二叉树]()**
 * **[DSP图]()**

@@ -80,7 +80,7 @@
 * **[Info List zh-cn.md](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%203/Info%20List%20zh-cn.md)** 
 
 ### 课件 Course wares
-* **[DSP绪论]()**
+* **[DSP绪论](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/DSPv2_0(%E7%BB%AA%E8%AE%BA)-sxh.pptx)**
 * **[DSP数据结构基础]()**
 * **[DSP线性表]()**
 * **[DSP广义表、矩阵和串]()**

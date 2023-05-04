@@ -88,3 +88,4 @@
 * **[DSP树与二叉树](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/DSPv2_5(%E6%A0%91%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%A0%91)-sxh.pptx)**
 * **[DSP图](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/DSPv2_6(%E5%9B%BE)-sxh.pptx)**
 * **[DSP查找](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/DSPv2_7(%E6%9F%A5%E6%89%BE)-sxh.pptx)**
+* **[第0章:绪论](https://github.com/MossDream/Data-Structure-Learning-C/blob/Update/Course%20Ware/%E7%AC%AC0%E7%AB%A0%20%E7%BB%AA%E8%AE%BA_%E5%AE%BD%E5%B1%8F-v2.pdf)**

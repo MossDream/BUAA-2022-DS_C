@@ -94,7 +94,7 @@
 * **[第1章:基础3](https://github.com/MossDream/Data-Structure-Learning-C/blob/Update/Course%20Ware/%E7%AC%AC1%E7%AB%A0%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80-%E7%BB%93%E6%9E%84%E4%BD%93-%E6%96%87%E4%BB%B6(1).pdf)**
 * **[第2章:线性表](https://github.com/MossDream/Data-Structure-Learning-C/blob/Update/Course%20Ware/%E7%AC%AC2%E7%AB%A0%20%E7%BA%BF%E6%80%A7%E8%A1%A8.pdf)**
 * **[第3章:栈和队](https://github.com/MossDream/Data-Structure-Learning-C/blob/Update/Course%20Ware/%E7%AC%AC3%E7%AB%A0-%E6%A0%88%E5%92%8C%E9%98%9F.pdf)**
-* **[第4章:广义表和矩阵]()**
+* **[第4章:广义表和矩阵](https://github.com/MossDream/Data-Structure-Learning-C/blob/Update/Course%20Ware/%E7%AC%AC4%E7%AB%A0%20%E5%B9%BF%E4%B9%89%E8%A1%A8%E3%80%81%E7%9F%A9%E9%98%B5.pdf)**
 * **[第5章:树和图1]()**
 * **[第5章:树和图2]()**
 * **[命令行操作学习]()**

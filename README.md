@@ -90,6 +90,7 @@
 * **[DSP查找](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/DSPv2_7(%E6%9F%A5%E6%89%BE)-sxh.pptx)**
 * **[第0章:绪论](https://github.com/MossDream/Data-Structure-Learning-C/blob/Update/Course%20Ware/%E7%AC%AC0%E7%AB%A0%20%E7%BB%AA%E8%AE%BA_%E5%AE%BD%E5%B1%8F-v2.pdf)**
 * **[第1章:基础1](https://github.com/MossDream/Data-Structure-Learning-C/blob/Update/Course%20Ware/%E7%AC%AC1%E7%AB%A0%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80-v2-1.pdf)**
+* **[第1章:基础2](https://github.com/MossDream/Data-Structure-Learning-C/blob/Update/Course%20Ware/%E7%AC%AC1%E7%AB%A0%20%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%9F%BA%E7%A1%80-%E6%95%B0%E7%BB%84-%E6%8C%87%E9%92%88(1).pdf)**
 * **[]()**
 * **[]()**
 * **[]()**

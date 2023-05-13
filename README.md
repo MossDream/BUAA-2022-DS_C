@@ -47,6 +47,7 @@
 * **[encode.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/encode.pdf)**
 * **[word.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/word.pdf)**
 * **[stack.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/stack.pdf)**
+* **[match.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/match.pdf)**
 ### 参考代码文件 Files for reference code
 #### Episode 1
 * **[example1c.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/example1c.c)** 
@@ -75,7 +76,8 @@
  **注意：该题要求的article测试文件在同一目录下 Note: The article test file required for this question is in the same directory** 
  
 #### Episode 4
-* **[stack.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%204/stack.c)**   
+* **[stack.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%204/stack.c)**
+* **[match.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%204/match.c)**    
 
 ### 题目信息清单 Topic Information List
 #### Episode 1

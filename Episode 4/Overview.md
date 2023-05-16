@@ -6,3 +6,7 @@
 **[match.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%204/match.c)**
 ## **2023/05/15**
 **[cal.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%204/cal.c)**
+## **2023/05/16**
+**[edit.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%204/edit.c)**
+
+

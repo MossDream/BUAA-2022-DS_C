@@ -32,6 +32,7 @@
 * **[stack.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/stack.docx)**
 * **[cal.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/cal.docx)**
 * **[edit.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/edit.docx)**
+* **[bank.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/bank.docx)**
 #### pdf
 * **[example1c.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/example1c.pdf)** 
 * **[expand.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expand.pdf)**
@@ -52,6 +53,7 @@
 * **[match.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/match.pdf)**
 * **[cal.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/cal.pdf)**
 * **[edit.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/edit.pdf)**
+* **[bank.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/bank.pdf)**
 ### 参考代码文件 Files for reference code
 #### Episode 1
 * **[example1c.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/example1c.c)** 
@@ -83,7 +85,8 @@
 * **[stack.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%204/stack.c)**
 * **[match.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%204/match.c)** 
 * **[cal.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%204/cal.c)** 
-* **[edit.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%204/edit.c)**    
+* **[edit.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%204/edit.c)** 
+* **[bank.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%204/bank.c)**    
 
 ### 题目信息清单 Topic Information List
 #### Episode 1

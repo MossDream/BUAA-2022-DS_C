@@ -131,3 +131,9 @@
 * Update with **[bank.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%204/bank.c)** for reference code and **[bank.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/bank.docx)** for question.  
 * 更新了 **[bank.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/bank.pdf)** 题目文件  
 * Update with **[bank.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/bank.pdf)** for question.
+
+### **2023/05/21** **May 21th , 2023**  
+* 更新了 **[bst.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/bst.c)** 参考代码文件及其 **[bst.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/bst.docx)** 题目文件  
+* Update with **[bst.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/bst.c)** for reference code and **[bst.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/bst.docx)** for question.  
+* 更新了 **[bst.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/bst.pdf)** 题目文件  
+* Update with **[bst.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/bst.pdf)** for question.

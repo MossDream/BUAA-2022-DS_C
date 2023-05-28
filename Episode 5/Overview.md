@@ -5,3 +5,6 @@
 
 ## **2023/05/24** 
 **[count.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/count.c)**
+
+## **2023/05/28** 
+**[expressiontree.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/expressiontree.c)**

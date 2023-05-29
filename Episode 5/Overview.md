@@ -8,3 +8,6 @@
 
 ## **2023/05/28** 
 **[expressiontree.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/expressiontree.c)**
+
+## **2023/05/29** 
+**[adjust.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/adjust.c)**

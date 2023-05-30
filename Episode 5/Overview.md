@@ -11,3 +11,7 @@
 
 ## **2023/05/29** 
 **[adjust.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/adjust.c)**
+
+## **2023/05/30** 
+**[hzip.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/hzip.c)**  
+**[hzip-u.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/hzip-u.c)**

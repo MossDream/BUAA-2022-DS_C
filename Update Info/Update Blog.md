@@ -150,3 +150,10 @@
 * Update with **[expressiontree.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/expressiontree.c)** for reference code and **[expressiontree.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expressiontree.docx)** for question.  
 * 更新了 **[expressiontree.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expressiontree.pdf)** 题目文件  
 * Update with **[expressiontree.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expressiontree.pdf)** for question.
+
+
+### **2023/05/29** **May 29th , 2023**  
+* 更新了 **[adjust.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/adjust.c)** 参考代码文件及其 **[adjust.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/adjust.docx)** 题目文件  
+* Update with **[adjust.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/adjust.c)** for reference code and **[adjust.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/adjust.docx)** for question.  
+* 更新了 **[adjust.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/adjust.pdf)** 题目文件  
+* Update with **[adjust.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/adjust.pdf)** for question.

@@ -6,3 +6,4 @@
   |count|词频统计|二叉查找树、词频统计|2|15min|
   |expressiontree|表达式树|后缀表达式|3|18min|
   |adjust|机场服务优化|树、排序|2|15min|
+  |hzip、hzip-u|哈夫曼编码|哈夫曼树|4|40min|

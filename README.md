@@ -37,6 +37,7 @@
 * **[count.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/count.docx)**
 * **[expressiontree.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expressiontree.docx)**
 * **[adjust.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/adjust.docx)**
+* **[hzip.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip.docx)**
 #### pdf
 * **[example1c.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/example1c.pdf)** 
 * **[expand.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expand.pdf)**
@@ -62,6 +63,7 @@
 * **[count.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/count.pdf)**
 * **[expressiontree.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expressiontree.pdf)**
 * **[adjust.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/adjust.pdf)**
+* **[hzip.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip.pdf)**
 ### 参考代码文件 Files for reference code
 #### Episode 1
 * **[example1c.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/example1c.c)** 
@@ -102,6 +104,8 @@
 * **[expressiontree.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/expressiontree.c)**  
  **注意：该题要求的article测试文件在同一目录下 Note: The article test file required for this question is in the same directory** 
 * **[adjust.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/adjust.c)** 
+* **[hzip.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/hzip.c)**  
+ **注意：该题要求的myfile测试文件在同一目录下 Note: The myfile test file required for this question is in the same directory**
 ### 题目信息清单 Topic Information List
 #### Episode 1
 * **[Info List zh-cn.md](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/Info%20List%20zh-cn.md)** 

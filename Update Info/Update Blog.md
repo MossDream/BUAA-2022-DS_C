@@ -159,10 +159,11 @@
 * Update with **[adjust.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/adjust.pdf)** for question.
 
 ### **2023/05/30** **May 30th , 2023**  
-* 更新了 **[hzip.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/hzip.c)** 参考代码文件及其 **[hzip.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip.docx)** 题目文件  
-* Update with **[hzip.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/hzip.c)** for reference code and **[hzip.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip.docx)** for question.  
-* 更新了 **[hzip.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip.pdf)** 题目文件  
-* Update with **[hzip.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip.pdf)** for question.
+* 更新了 **[hzip.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/hzip.c)** 参考代码文件及其 **[hzip.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip.docx)** 题目文件    
+* Update with **[hzip.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/hzip.c)** for reference code and **[hzip.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip.docx)** for question.    
+* 更新了 **[hzip.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip.pdf)** 题目文件    
+* Update with **[hzip.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip.pdf)** for question.    
+
 
 * 更新了 **[hzip-u.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/hzip-u.c)** 参考代码文件及其 **[hzip-u.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip-u.docx)** 题目文件  
 * Update with **[hzip-u.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/hzip-u.c)** for reference code and **[hzip-u.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip-u.docx)** for question.  

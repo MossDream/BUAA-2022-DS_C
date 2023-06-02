@@ -164,8 +164,14 @@
 * 更新了 **[hzip.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip.pdf)** 题目文件    
 * Update with **[hzip.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip.pdf)** for question.    
 
-
 * 更新了 **[hzip-u.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/hzip-u.c)** 参考代码文件及其 **[hzip-u.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip-u.docx)** 题目文件  
 * Update with **[hzip-u.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/hzip-u.c)** for reference code and **[hzip-u.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip-u.docx)** for question.  
 * 更新了 **[hzip-u.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip-u.pdf)** 题目文件  
 * Update with **[hzip-u.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip-u.pdf)** for question.
+
+
+### **2023/06/01** **June 1st , 2023**  
+* 更新了 **[huffman2student.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/huffman2student.c)** 参考代码文件及其 **[huffman2student.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/huffman2student.docx)** 题目文件    
+* Update with **[huffman2student.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/huffman2student.c)** for reference code and **[huffman2student.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/huffman2student.docx)** for question.    
+* 更新了 **[huffman2student.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/huffman2student.pdf)** 题目文件    
+* Update with **[huffman2student.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/huffman2student.pdf)** for question.  

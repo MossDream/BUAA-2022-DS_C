@@ -39,6 +39,7 @@
 * **[adjust.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/adjust.docx)**
 * **[hzip.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip.docx)**
 * **[hzip-u.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip-u.docx)**
+* **[huffman2student.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/huffman2student.docx)**
 #### pdf
 * **[example1c.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/example1c.pdf)** 
 * **[expand.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expand.pdf)**
@@ -66,6 +67,7 @@
 * **[adjust.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/adjust.pdf)**
 * **[hzip.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip.pdf)**
 * **[hzip-u.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/hzip-u.pdf)**
+* **[huffman2student.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/huffman2student.pdf)**
 ### 参考代码文件 Files for reference code
 #### Episode 1
 * **[example1c.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/example1c.c)** 
@@ -109,6 +111,9 @@
 * **[hzip.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/hzip.c)**  
  **注意：该题要求的myfile测试文件在同一目录下 Note: The myfile test file required for this question is in the same directory**
 * **[hzip-u.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/hzip-u.c)**
+* **[huffman2student.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/huffman2student.c)**  
+ **注意：该题要求的input测试文件在同一目录下 Note: The input test file required for this question is in the same directory**
+ 
 ### 题目信息清单 Topic Information List
 #### Episode 1
 * **[Info List zh-cn.md](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/Info%20List%20zh-cn.md)** 
@@ -127,20 +132,24 @@
 * **[选择题2 docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E9%80%89%E6%8B%A9%E9%A2%982.docx)**
 * **[选择题3 docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E9%80%89%E6%8B%A9%E9%A2%983.docx)**
 * **[选择题4 docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E9%80%89%E6%8B%A9%E9%A2%984.docx)**
+* **[选择题5 docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E9%80%89%E6%8B%A9%E9%A2%985.docx)**
 * **[选择题1 pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E9%80%89%E6%8B%A9%E9%A2%981.pdf)**
 * **[选择题2 pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E9%80%89%E6%8B%A9%E9%A2%982.pdf)**
 * **[选择题3 pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E9%80%89%E6%8B%A9%E9%A2%983.pdf)**
 * **[选择题4 pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E9%80%89%E6%8B%A9%E9%A2%984.pdf)**
+* **[选择题5 pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E9%80%89%E6%8B%A9%E9%A2%985.pdf)**
 
 #### 填空题
 * **[填空题1 docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E5%A1%AB%E7%A9%BA%E9%A2%981.docx)**
 * **[填空题2 docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E5%A1%AB%E7%A9%BA%E9%A2%982.docx)**
 * **[填空题3 docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E5%A1%AB%E7%A9%BA%E9%A2%983.docx)**
 * **[填空题4 docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E5%A1%AB%E7%A9%BA%E9%A2%984.docx)**
+* **[填空题5 docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E5%A1%AB%E7%A9%BA%E9%A2%985.docx)**
 * **[填空题1 pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E5%A1%AB%E7%A9%BA%E9%A2%981.pdf)**
 * **[填空题2 pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E5%A1%AB%E7%A9%BA%E9%A2%982.pdf)**
 * **[填空题3 pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E5%A1%AB%E7%A9%BA%E9%A2%983.pdf)**
 * **[填空题4 pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E5%A1%AB%E7%A9%BA%E9%A2%984.pdf)**
+* **[填空题5 pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Other%20Exercise/%E5%A1%AB%E7%A9%BA%E9%A2%985.pdf)**
 ### 课件 Course wares
 * **[DSP绪论](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/DSPv2_0(%E7%BB%AA%E8%AE%BA)-sxh.pptx)**
 * **[DSP数据结构基础](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/DSPv2_1(%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%9F%BA%E7%A1%80)-sxh.pptx)**

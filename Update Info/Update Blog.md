@@ -174,4 +174,10 @@
 * 更新了 **[huffman2student.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/huffman2student.c)** 参考代码文件及其 **[huffman2student.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/huffman2student.docx)** 题目文件    
 * Update with **[huffman2student.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/huffman2student.c)** for reference code and **[huffman2student.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/huffman2student.docx)** for question.    
 * 更新了 **[huffman2student.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/huffman2student.pdf)** 题目文件    
-* Update with **[huffman2student.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/huffman2student.pdf)** for question.  
+* Update with **[huffman2student.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/huffman2student.pdf)** for question. 
+
+### **2023/06/03** **June 3rd , 2023**  
+* 更新了 **[find.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%206/find.c)** 参考代码文件及其 **[find.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/find.docx)** 题目文件    
+* Update with **[find.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%206/find.c)** for reference code and **[find.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/find.docx)** for question.    
+* 更新了 **[find.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/find.pdf)** 题目文件    
+* Update with **[find.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/find.pdf)** for question. 

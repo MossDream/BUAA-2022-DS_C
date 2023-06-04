@@ -179,6 +179,6 @@
 * **[简单文件操作学习](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E7%AE%80%E5%8D%95%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C.pdf)**
 * **[第6章 图1](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E7%AC%AC6%E7%AB%A0%20%E5%9B%BE1.pdf)**
 * **[第6章 图2](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E7%AC%AC6%E7%AB%A0%20%E5%9B%BE2.pdf)**
-* **[]()**
-* **[]()**
+* **[第7章 查找1](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E7%AC%AC7%E7%AB%A0%20%20%E6%9F%A5%E6%89%BE1.pdf)**
+* **[第7章 查找2](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E7%AC%AC7%E7%AB%A0%20%20%E6%9F%A5%E6%89%BE2.pdf)**
 * **[]()**

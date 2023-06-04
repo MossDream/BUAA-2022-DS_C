@@ -175,10 +175,11 @@
 * **[第4章:广义表和矩阵](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E7%AC%AC4%E7%AB%A0%20%E5%B9%BF%E4%B9%89%E8%A1%A8%E3%80%81%E7%9F%A9%E9%98%B5.pdf)**
 * **[第5章:树1](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E7%AC%AC5%E7%AB%A0%20%E6%A0%91%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%A0%91(2).pdf)**
 * **[第5章:树2](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E7%AC%AC5%E7%AB%A0%20%E6%A0%91%E4%B8%8E%E4%BA%8C%E5%8F%89%E6%A0%91_2.pdf)**
-* **[命令行操作学习](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E5%91%BD%E4%BB%A4%E8%A1%8C.pdf)**
-* **[简单文件操作学习](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E7%AE%80%E5%8D%95%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C.pdf)**
 * **[第6章 图1](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E7%AC%AC6%E7%AB%A0%20%E5%9B%BE1.pdf)**
 * **[第6章 图2](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E7%AC%AC6%E7%AB%A0%20%E5%9B%BE2.pdf)**
 * **[第7章 查找1](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E7%AC%AC7%E7%AB%A0%20%20%E6%9F%A5%E6%89%BE1.pdf)**
 * **[第7章 查找2](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E7%AC%AC7%E7%AB%A0%20%20%E6%9F%A5%E6%89%BE2.pdf)**
-* **[]()**
+* **[第8章 排序](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E7%AC%AC8%E7%AB%A0%20%E6%8E%92%E5%BA%8F.pdf)**
+* **[命令行操作学习](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E5%91%BD%E4%BB%A4%E8%A1%8C.pdf)**
+* **[简单文件操作学习](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E7%AE%80%E5%8D%95%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C.pdf)**
+

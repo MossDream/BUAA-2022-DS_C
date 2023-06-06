@@ -5,3 +5,7 @@
 
 ## **2023/06/04** 
 **[seat.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%206/seat.c)**
+
+## **2023/06/06** 
+**[intsort.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%206/intsort.c)**
+

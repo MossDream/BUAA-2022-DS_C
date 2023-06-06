@@ -187,3 +187,9 @@
 * Update with **[seat.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%206/seat.c)** for reference code and **[seat.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/seat.docx)** for question.    
 * 更新了 **[seat.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/seat.pdf)** 题目文件    
 * Update with **[seat.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/seat.pdf)** for question. 
+
+### **2023/06/06** **June 6th , 2023**  
+* 更新了 **[intsort.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%206/intsort.c)** 参考代码文件及其 **[intsort.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/intsort.docx)** 题目文件    
+* Update with **[intsort.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%206/intsort.c)** for reference code and **[intsort.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/intsort.docx)** for question.    
+* 更新了 **[intsort.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/intsort.pdf)** 题目文件    
+* Update with **[intsort.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/intsort.pdf)** for question. 

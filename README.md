@@ -42,6 +42,7 @@
 * **[huffman2student.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/huffman2student.docx)**
 * **[find.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/find.docx)**
 * **[seat.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/seat.docx)**
+* **[intsort.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/intsort.docx)**
 #### pdf
 * **[example1c.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/example1c.pdf)** 
 * **[expand.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expand.pdf)**
@@ -72,6 +73,7 @@
 * **[huffman2student.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/huffman2student.pdf)**
 * **[find.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/find.pdf)**
 * **[seat.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/seat.pdf)**
+* **[intsort.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/intsort.pdf)**
 ### 参考代码文件 Files for reference code
 #### Episode 1
 * **[example1c.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/example1c.c)** 
@@ -122,8 +124,10 @@
 * **[find.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%206/find.c)**  
  **注意：该题要求的dictionary3000测试文件在同一目录下 Note: The dictionary3000 test file required for this question is in the same directory**
 * **[seat.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%206/seat.c)**  
- **注意：该题要求的in测试文件在同一目录下 Note: The in test file required for this question is in the same directory**
-  **注意：该题要求的out测试文件在同一目录下 Note: The out test file required for this question is in the same directory**
+ **注意：该题要求的in测试文件在同一目录下 Note: The in test file required for this question is in the same directory**  
+ **注意：该题要求的out测试文件在同一目录下 Note: The out test file required for this question is in the same directory**
+* **[intsort.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%206/intsort.c)**  
+  
 ### 题目信息清单 Topic Information List
 #### Episode 1
 * **[Info List zh-cn.md](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/Info%20List%20zh-cn.md)** 

@@ -193,3 +193,5 @@
 * **[简单文件操作学习](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Course%20Ware/%E7%AE%80%E5%8D%95%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C.pdf)**
 
 ### 笔记 Notes
+* **[笔记1](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Note/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AC%94%E8%AE%B01.pdf)**  
+* **[笔记2](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Note/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E7%AC%94%E8%AE%B02.pdf)**

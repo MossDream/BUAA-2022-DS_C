@@ -100,7 +100,7 @@
 
 ### **2023/04/30** **April 30th , 2023** 
 * **重要更新005：提供课件**
-* **Important Update 004: provide course wares**
+* **Important Update 005: provide course wares**
 
 ### **2023/05/11** **May 11th , 2023**  
 * 更新了 **[stack.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%204/stack.c)** 参考代码文件及其 **[stack.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/stack.docx)** 题目文件  
@@ -193,3 +193,7 @@
 * Update with **[intsort.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%206/intsort.c)** for reference code and **[intsort.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/intsort.docx)** for question.    
 * 更新了 **[intsort.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/intsort.pdf)** 题目文件    
 * Update with **[intsort.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/intsort.pdf)** for question. 
+
+### **2023/06/07** **June 7th , 2023** 
+* **重要更新006：提供手写笔记**
+* **Important Update 006: provide handwrite notes**

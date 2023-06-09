@@ -197,3 +197,9 @@
 ### **2023/06/07** **June 7th , 2023** 
 * **重要更新006：提供手写笔记**
 * **Important Update 006: provide handwrite notes**
+
+### **2023/06/09** **June 9th , 2023**  
+* 更新了 **[path.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%207/path.c)** 参考代码文件及其 **[path.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/path.docx)** 题目文件    
+* Update with **[path.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%207/path.c)** for reference code and **[path.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/path.docx)** for question.    
+* 更新了 **[path.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/path.pdf)** 题目文件    
+* Update with **[path.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/path.pdf)** for question. 

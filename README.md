@@ -43,6 +43,7 @@
 * **[find.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/find.docx)**
 * **[seat.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/seat.docx)**
 * **[intsort.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/intsort.docx)**
+* **[path.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/path.docx)**
 #### pdf
 * **[example1c.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/example1c.pdf)** 
 * **[expand.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expand.pdf)**
@@ -74,6 +75,7 @@
 * **[find.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/find.pdf)**
 * **[seat.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/seat.pdf)**
 * **[intsort.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/intsort.pdf)**
+* **[path.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/path.pdf)**
 ### 参考代码文件 Files for reference code
 #### Episode 1
 * **[example1c.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/example1c.c)** 
@@ -128,6 +130,8 @@
  **注意：该题要求的out测试文件在同一目录下 Note: The out test file required for this question is in the same directory**
 * **[intsort.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%206/intsort.c)**  
   
+#### Episode 7
+* **[path.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%207/path.c)**  
 ### 题目信息清单 Topic Information List
 #### Episode 1
 * **[Info List zh-cn.md](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%201/Info%20List%20zh-cn.md)** 
@@ -141,6 +145,8 @@
 * **[Info List zh-cn.md](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%205/Info%20List%20zh-cn.md)**
 #### Episode 6
 * **[Info List zh-cn.md](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%206/Info%20List%20zh-cn.md)**
+#### Episode 7
+* **[Info List zh-cn.md](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%207/Info%20List%20zh-cn.md)**
 
 ### 选择填空练习
 #### 选择题

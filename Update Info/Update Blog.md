@@ -210,3 +210,7 @@
 * Update with **[path.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%207/path.c)** for reference code and **[path.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/path.docx)** for question.    
 * 更新了 **[path.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/path.pdf)** 题目文件    
 * Update with **[path.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/path.pdf)** for question. 
+
+### **2023/06/11** **June 11th , 2023**  
+* 选择与填空题更新完毕
+* Choices and fill-in-the-blank questions all updated

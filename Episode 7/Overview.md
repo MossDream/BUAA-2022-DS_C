@@ -4,3 +4,6 @@
 
 ## **2023/06/09** 
 **[path.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%207/path.c)**
+
+## **2023/06/13** 
+**[kruskal.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%207/kruskal.c)**

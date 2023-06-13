@@ -214,3 +214,9 @@
 ### **2023/06/11** **June 11th , 2023**  
 * 选择与填空题更新完毕
 * Choices and fill-in-the-blank questions all updated
+
+### **2023/06/13** **June 13th , 2023**  
+* 更新了 **[kruskal.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%207/kruskal.c)** 参考代码文件及其 **[kruskal.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/kruskal.docx)** 题目文件    
+* Update with **[kruskal.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%207/kruskal.c)** for reference code and **[kruskal.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/kruskal.docx)** for question.    
+* 更新了 **[kruskal.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/kruskal.pdf)** 题目文件    
+* Update with **[kruskal.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/kruskal.pdf)** for question. 

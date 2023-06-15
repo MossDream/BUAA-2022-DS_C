@@ -5,3 +5,4 @@
   |graphSearch  | 图的基本遍历 | 图的深度优先遍历 | 1 | 10min |
   |path|独立路径计算|图的遍历|3|13min|
   |kruskal|最小布线计算|Kruskal算法的应用|3|20min|
+  |subway|最短路径计算|最短路算法的应用|4|25min|

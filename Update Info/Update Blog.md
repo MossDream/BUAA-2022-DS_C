@@ -220,3 +220,9 @@
 * Update with **[kruskal.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%207/kruskal.c)** for reference code and **[kruskal.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/kruskal.docx)** for question.    
 * 更新了 **[kruskal.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/kruskal.pdf)** 题目文件    
 * Update with **[kruskal.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/kruskal.pdf)** for question. 
+
+### **2023/06/15** **June 15th , 2023**  
+* 更新了 **[subway.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%207/subway.c)** 参考代码文件及其 **[subway.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/subway.docx)** 题目文件    
+* Update with **[subway.c](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/Episode%207/subway.c)** for reference code and **[subway.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/subway.docx)** for question.    
+* 更新了 **[subway.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/subway.pdf)** 题目文件    
+* Update with **[subway.pdf](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/subway.pdf)** for question. 

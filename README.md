@@ -12,7 +12,7 @@
 * **Please leave a message if you have any questions!**  🥳
 
 ## 资料信息索引 Index of data information
-### 编程题目文件 Files for programming files
+### 编程题目文件 Files for programming statement
 #### docx
 * **[example1c.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/example1c.docx)** 
 * **[expand.docx](https://github.com/MossDream/Data-Structure-Learning-C/blob/main/expand.docx)**
